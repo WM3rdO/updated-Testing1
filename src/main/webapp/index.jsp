@@ -11,7 +11,7 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <link rel="stylesheet" type="text/css" href="css/Picknpay.css">
         <title>JSP Page</title>
-    </head> 
+    </head>
     <body>
         <div id="main">
             <div id="header">
@@ -22,7 +22,6 @@
                     <div class="headerWidget">
                         [ Shopping cart widget ]
                     </div>
-            </div>
                 </div>
                 <a href="https://cdn-prd-02.pnp.co.za/sys-master/images/h42/hf7/8796170453022/onlineshopping_logo.png">
                     <img src="https://cdn-prd-02.pnp.co.za/sys-master/images/h42/hf7/8796170453022/onlineshopping_logo.png" id="logo" alt="Picknpay logo">
@@ -50,7 +49,7 @@
                 
                 <div class="categoryBox">
                     <a href="a">
-                                <span class="categoryLabelText">Diary</span>
+                        <span class="categoryLabelText">Diary</span>
                     </a>
                 </div>
                 

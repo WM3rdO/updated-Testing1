@@ -149,3 +149,48 @@ hr{
     background-color: green;
     box-shadow: none;
 }
+
+#main-container{
+    text-align: center;
+   
+}
+
+.container{
+    display: inline-block;
+    padding: 20px;
+    border: 1px solid black;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.qty{
+    width: 50px;
+    
+}
+
+#cart-container{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+#myCart{
+    border-collapse: collapse;
+}
+
+#myCart tr td, th{
+    padding: 10px;
+    width: 200px;
+    position: relative;  
+}
+
+#myCart tr th {
+    background-color: black;
+    color: white;
+}
+
+#myCart tr td {
+    text-align: left;
+    
+}
